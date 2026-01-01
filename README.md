@@ -28,7 +28,9 @@ Geographic Performance: Texas leads with $22.67M (24.7% of revenue).
 
 Operational Insights: Payment preferences show Credit Card (34.98%), Net Banking (20.19%), and Debit Card (19.29%) as top methods.
 
-Delivery status reveals 74.63% successfully delivered, but a concerning 15.19% return rate (above 8-10% industry benchmark) costing $13.94M at risk, likely due to product quality issues, incorrect descriptions, and size/fit problems in Clothing. Sales peak on Mondays ($13.3M) with February consistently showing the lowest monthly revenue (~$6.9M vs $7.59M average), representing a $690K monthly gap ($3.45M over 5 years) caused by post-holiday spending fatigue, shortest month effect, seasonal product mismatch, and underutilized Valentine's Day opportunity.
+Delivery status reveals 74.63% successfully delivered, but a concerning 15.19% return rate (above 8-10% industry benchmark) costing $13.94M at risk, likely due to product quality issues, incorrect descriptions, and size/fit problems in Clothing.
+
+Sales peak on Mondays ($13.3M) with February consistently showing the lowest monthly revenue (~$6.9M vs $7.59M average), representing a $690K monthly gap ($3.45M over 5 years) caused by post-holiday spending fatigue, shortest month effect, seasonal product mismatch, and underutilized Valentine's Day opportunity.
 
 Critical Challenges & Root Causes:
 •	One-Time Customer Problem: 16,706 customers never returned due to low first purchase value (<$50), one-time-use products (Books), and recent 2024 customers needing nurturing
