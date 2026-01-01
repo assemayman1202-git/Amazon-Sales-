@@ -42,9 +42,11 @@ Immediate Actions (0-3 Months):
 3.	Optimize Top 10 Products: Never stock out Memory Card 128GB, bundle complementary products (Memory Card + Card Reader), and implement upselling at checkout—Expected impact: +5% AOV = +$4.55M annually
    
 Short-Term Actions (3-6 Months): 
+
 5. Category Expansion: Add 15-20 smart home products in Electronics, revitalize Home & Kitchen with trending items (air fryers), expand activewear in Clothing, and grow Sports & Outdoors with camping gear—reduces single-category dependency risk
- 6. Reduce Return Rate: Conduct root cause analysis by category, improve size charts and product photos for Clothing, enhance packaging for fragile items, and implement pre-shipment quality inspections—Target: reduce to 10%, saving $4.7M annually
+6. Reduce Return Rate: Conduct root cause analysis by category, improve size charts and product photos for Clothing, enhance packaging for fragile items, and implement pre-shipment quality inspections—Target: reduce to 10%, saving $4.7M annually
  
 Long-Term Actions (6-12 Months):
- 7. Geographic Expansion: Target Texas with state-specific campaigns (+$10M), Florida with seasonal product focus (+$5M), and New York with premium product lines (+$8M)—Expected total: +$23M from geographic expansion
- 8. International Development: Focus Year 1 on UK market with localized descriptions and faster delivery partnerships
+
+7. Geographic Expansion: Target Texas with state-specific campaigns (+$10M), Florida with seasonal product focus (+$5M), and New York with premium product lines (+$8M)—Expected total: +$23M from geographic expansion
+8. International Development: Focus Year 1 on UK market with localized descriptions and faster delivery partnerships
